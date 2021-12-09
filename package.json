@@ -4,7 +4,7 @@
     "angular-aria": "1.8.2",
     "angular-material": "1.2.3",
     "css-loader": "5.2.7",
-    "eslint": "7.26.0",
+    "eslint": "7.32.0",
     "eslint-config-google": "0.14.0",
     "sass": "1.44.0",
     "sass-loader": "11.1.1",
